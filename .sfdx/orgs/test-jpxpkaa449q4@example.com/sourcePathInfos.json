@@ -2,14 +2,14 @@
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529830898546,
             "changeTime": 1529830898546,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529830898546,
             "changeTime": 1529830898546,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529831540083,
             "changeTime": 1529831540083,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529830898546,
             "changeTime": 1529830898546,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529831159699,
             "changeTime": 1529831159699,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,53 +75,53 @@
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1529831540021,
             "changeTime": 1529831540021,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1529831540036,
             "changeTime": 1529831540036,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1529831540052,
             "changeTime": 1529831540052,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1529831540067,
             "changeTime": 1529831540067,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -131,10 +131,10 @@
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9582,
-            "modifiedTime": 1529831540067,
-            "changeTime": 1529831540067,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "size": 9682,
+            "modifiedTime": 1529849967261,
+            "changeTime": 1529849967261,
+            "contentHash": "f3255be223cd8703b14839e0d97b20265f41c9e5"
         }
     ],
     [
@@ -144,75 +144,75 @@
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 702,
-            "modifiedTime": 1529831540083,
-            "changeTime": 1529831540083,
-            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
+            "size": 700,
+            "modifiedTime": 1529849967270,
+            "changeTime": 1529849967270,
+            "contentHash": "496e401c71968f859fd216158a231c887bbde781"
         }
     ],
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529831540021,
             "changeTime": 1529831540021,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529831540021,
             "changeTime": 1529831540021,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529831540021,
             "changeTime": 1529831540021,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529831540067,
             "changeTime": 1529831540067,
-            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129"
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\uditsharma\\Desktop\\Geolocation\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1529831540083,
             "changeTime": 1529831540083,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
